@@ -1,4 +1,4 @@
-# To-do list
+# GoFlow
 
 <div>
   <img align="right" src="./gopher.png" height="100" alt="Gopher">
@@ -102,4 +102,3 @@ This project uses the following tools:
 - [ ] Add a custom Logger package
 - [ ] Add Swagger
 - [ ] Add Go Docs
-- [ ] Improve code duplication
